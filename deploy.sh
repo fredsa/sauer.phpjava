@@ -1,4 +1,4 @@
 #/bin/bash
 #
 set -uex
-appcfg.sh update war
+appcfg.sh update war $*
